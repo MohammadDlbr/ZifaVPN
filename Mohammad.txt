@@ -1,1 +1,0 @@
-vless://f949e16d-07f5-488d-95d3-5df8f8af6e2a@5.75.208.116:52691?security=reality&encryption=none&pbk=S6_FC2RT6fsHGVhbxfoMu2wJPRUuVxk1hQRa-nPfbkQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=995b11d1#%40ZifaVPN-Mohammad
