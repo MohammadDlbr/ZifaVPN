@@ -1,1 +1,0 @@
-vless://f19c7927-f789-4f0b-95d1-c210b89a156d@movie.zifadlbr.com:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Niloo
